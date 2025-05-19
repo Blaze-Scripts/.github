@@ -6,6 +6,10 @@
 
 Welcome to the **Blaze Scripts** organization! We craft high-performance, drop-in Lua modules designed specifically for RedM & FiveM servers. Seamless installation, and easy maintenance.
 
+- 🔹 **Free Scripts**: [GitHub Repository](https://github.com/Blaze-Scripts)  
+- 🔹 **Paid Scripts**: [Tebex Store](https://blaze-scripts.tebex.io/)  
+- 🔹 **Support**: [Join our Discord](https://discord.gg/xUcj2R4ZX4)
+  
 ---
 
 ## ✨ Features & Benefits
