@@ -15,19 +15,19 @@ Welcome to the **Blaze Scripts** organization! We craft high-performance, plug-a
 ## ✨ Features & Benefits
 
 - **🔧 Modular Design**  
-  Load only what you need – every script is standalone, with minimal dependencies.
+  Load only what you need – every script is standalone, with minimal dependencies
 
 - **⚡ Peak Performance**  
-  Optimized Lua code for low latency and smooth performance in RedM & FiveM environments.
+  Optimized Lua code for low latency and smooth performance in RedM & FiveM environments
 
 - **🔄 Easy Updates**  
-  Each module lives in its own repo with CI testing and semantic versioning for safe upgrades.
+  We ensure regular and necessary updates for all maintained scripts - keeping your server stable and up to date without hassle
 
 - **🛠️ Fully Configurable**  
-  Override behavior via `config.lua` – no need to touch core files to customize UI, keybindings, or logic.
+  Override behavior via `config.lua` – no need to touch core files to customize UI, keybindings, or logic
 
 - **🤝 Community Driven**  
-  We welcome contributions! Submit pull requests, report issues, or suggest features to shape future releases.
+  We welcome contributions! Submit pull requests, report issues, or suggest features to shape future releases
 
 ---
 
