@@ -40,7 +40,7 @@ See each script’s `LICENSE` file for details.
 
 ## 🗨️ Support
 
-> 💡 **Free Scripts:** Community support only – no guaranteed response.  
+> 💡 **Free Scripts:** Community support only – no guaranteed response. 
 > 💼 **Paid Scripts:** Full support via Discord after purchase verification.
 
 ---
