@@ -42,6 +42,7 @@ Support for FREE SCRIPTS is offered but not guaranteed in the official Discord.
 
 ## 💬 Contact & Support
 
-- **Issues:** Open an issue in the relevant repository.  
-- **Discord:** Join our community at [discord.gg/blazescripts](https://discord.gg/xUcj2R4ZX4).  
+- **Issues:** Open an issue in the relevant repository
+- **Discord:** Join our community at [discord.gg/blazescripts](https://discord.gg/xUcj2R4ZX4)
+- **Tebex:** Check out our PAID SCRIPTS on [blaze-scripts.tebex.io](https://blaze-scripts.tebex.io/)
 - **Email:** [support@blazescripts.dev](mailto:support@blazescripts.dev)  
