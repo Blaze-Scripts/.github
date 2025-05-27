@@ -10,7 +10,7 @@ Welcome to the **Blaze Scripts** organization! We craft high-performance, plug-a
 - 🔹 **Paid Scripts**: [Tebex Store](https://store.blazescripts.dev/)  
 - 🔹 **Support**: [Join our Discord](https://discord.gg/xUcj2R4ZX4)
 
-![](https://komarev.com/ghpvc/?username=Blaze-Scripts)
+[![](https://komarev.com/ghpvc/?username=Blaze-Scripts)](https://komarev.com/ghpvc/?username=blaze-scripts&style=for-the-badge)
 
 ---
 
