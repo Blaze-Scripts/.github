@@ -45,6 +45,7 @@ See each script’s `LICENSE` file for details.
 At Blaze Scripts, we’re here to make your life easier - so if you ever run into a hiccup with one of our resources, just reach out and we’ll jump in to help. We strive to support all major frameworks, but on the rare occasion you’re using something outside our usual expertise, we might not be able to provide direct assistance. Either way, we’ll always point you toward resources or guidance to keep your project moving forward.
 
 > 💡 **Free Scripts:** Discord community support only – no guaranteed response
+
 > 💼 **Paid Scripts:** Full support via Discord Support Tickets
 
 ---
